@@ -5,8 +5,9 @@ Install the necessary packages :
 
 ```
 btop
+hyprpaper
+hyprlock
 neovim
-brightnessctl
 waybar
 mako
 wlogout
