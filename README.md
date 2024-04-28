@@ -1,11 +1,21 @@
 # .dotfiles-gruv-mix
-[Arch] [Hyprland] gruv-mix dotfiles 
+**[Arch]** **[Hyprland]** gruv-mix dotfiles 
 
 ### ⚙️ Installation
 Install the necessary packages :
 
 ```
-yay -S btop neovim brightnessctl waybar mako wlogout wofi vscode neofetch zathura starship
+btop
+neovim
+brightnessctl
+waybar
+mako
+wlogout
+wofi
+visual-studio-code-bin
+neofetch
+zathura
+starship
 ````
 #### `Note : Please make a backup to revert back to if anything goes wrong.`
 ```
