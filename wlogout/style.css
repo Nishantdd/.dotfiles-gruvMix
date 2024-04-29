@@ -90,6 +90,7 @@
       url('/usr/share/wlogout/icons/lock.png'),
       url('/usr/local/share/wlogout/icons/lock.png')
     );
+    background-size: 12%;
     border-top-left-radius: 50px;
   }
   
